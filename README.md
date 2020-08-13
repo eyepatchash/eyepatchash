@@ -1,8 +1,8 @@
 ### Hey, I'm Aswanth  aka eyePatch 
 
-## I'm a SOftware Developer, Gamer, Otaku , and Music Lover !
+## I'm a Software Developer, Gamer, Otaku , and Music Lover !
 
-- 🔭 I’m currently working on a COde editor -web based!
+- 🔭 I’m currently working on a Code editor -web based!
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and write quotes
@@ -29,18 +29,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
-
-
-
-
-
-
-
-
-
-
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
