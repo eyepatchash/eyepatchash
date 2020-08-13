@@ -1,4 +1,4 @@
-### Hey, I'm Aswanth  aka eyePatch 👋
+### Hey, I'm Aswanth  aka eyePatch 
 
 ## I'm a SOftware Developer, Gamer, Otaku , and Music Lover !
 
